@@ -1,0 +1,4 @@
+name: Crates
+version: 1.0
+main: net.crates.main.main
+author: Z3Z
